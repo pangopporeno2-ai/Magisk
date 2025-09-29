@@ -1,3 +1,4 @@
+[magisk_install_log_2025-09-29T07.48.55.log](https://github.com/user-attachments/files/22586555/magisk_install_log_2025-09-29T07.48.55.log)
 # Magisk Changelog
 
 ### v30.2 (2025.8.6)
