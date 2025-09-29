@@ -1,3 +1,6 @@
+[magisk_install_log_2025-09-29T07.48.19.log](https://github.com/user-attachments/files/22586452/magisk_install_log_2025-09-29T07.48.19.log)
+[Magisk-29.0(29000).zip](https://github.com/user-attachments/files/22586420/Magisk-29.0.29000.zip)
+[Magisk-29.0(29000).zip](https://github.com/user-attachments/files/22586426/Magisk-29.0.29000.zip)
 # Magisk Changelog
 
 ### v30.2 (2025.8.6)
